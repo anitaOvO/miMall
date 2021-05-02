@@ -1,13 +1,34 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view />
+    <router-view></router-view>
   </div>
 </template>
+<script>
+export default {
+  name: "app",
+  components: {},
+  data() {
+    return {
+      res: {},
+    };
+  },
+  mounted() {
+    /*本地加载请求静态 json文件的形式 
+    this.axios.get("/mock/user/login.json").then((res) => {
+      this.res = res;
+    }); */
 
+    /* 通过easy-mock平台实现数据mock 
+     this.axios.get("/user/login.json").then((res) => {
+      this.res = res;
+    }); */
+    //本地集成mock.js实现数据mock
+    this.axios.get("/user/login").then((res) => {
+      this.res = res;
+    });
+  },
+};
+</script>
 <style lang="scss">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
