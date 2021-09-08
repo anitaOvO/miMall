@@ -26,7 +26,7 @@ export default {
       this.axios
         .post("/pay", {
           orderId: this.orderId,
-          orderName: "Vue高仿小米商城",
+          orderName: "Vue米购商城",
           amount: 0.01,
           payType: 1,
         })

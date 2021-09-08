@@ -2,11 +2,11 @@
   <div class="footer">
     <div class="footer-logo">
       <img src="/imgs/logo-footer.png" alt="" />
-      <p>小米商城</p>
+      <p>mimall</p>
     </div>
     <div class="footer-link">
-      <a href="">小米商城</a><span>|</span> <a href=""> MIUI</a><span>|</span>
-      <a href="">米家</a><span>|</span> <a href="">米聊</a><span>|</span>
+      <a href="">mimall</a><span>|</span> <a href=""> MIUI</a><span>|</span>
+      <a href="">miHome</a><span>|</span> <a href="">miTalk</a><span>|</span>
     </div>
     <div class="copyright">© mi.com 123456789</div>
   </div>

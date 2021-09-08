@@ -40,7 +40,7 @@
         /></swiper-slide>
         <div class="swiper-pagination" slot="pagination"></div>
       </swiper>
-      <p class="desc">小米8 AI变焦双摄拍摄</p>
+      <p class="desc">MI AI变焦双摄拍摄</p>
     </div>
     <div class="item-video">
       <h2>60帧超慢动作摄影<br />慢慢回味每一瞬间的精彩</h2>

@@ -3,7 +3,7 @@
     <div class="nav-topbar">
       <div class="container">
         <div class="topbar-menu">
-          <a href="javascript:;">小米商城</a>
+          <a href="javascript:;">mimall</a>
           <a href="javascript:;">MUI</a>
           <a href="javascript:;">云服务</a>
           <a href="javascript:;">协议规则</a>
@@ -26,7 +26,7 @@
         </div>
         <div class="header-menu">
           <div class="item-menu">
-            <span>小米手机</span>
+            <span>手机</span>
             <div class="children">
               <ul>
                 <li
@@ -46,7 +46,7 @@
             </div>
           </div>
           <div class="item-menu">
-            <span>Redmi红米</span>
+            <span>Redmi</span>
             <div class="children"></div>
           </div>
           <div class="item-menu">
@@ -58,7 +58,7 @@
                     <div class="pro-img">
                       <img v-lazy="'/imgs/nav-img/nav-3-1.jpg'" alt="" />
                     </div>
-                    <div class="pro-name">小米CC9</div>
+                    <div class="pro-name">CC9</div>
                     <div class="pro-price">1799元</div>
                   </a>
                 </li>
@@ -67,7 +67,7 @@
                     <div class="pro-img">
                       <img v-lazy="'/imgs/nav-img/nav-3-2.jpg'" alt="" />
                     </div>
-                    <div class="pro-name">小米全面屏电视E55A</div>
+                    <div class="pro-name">全面屏电视E55A</div>
                     <div class="pro-price">1799元</div>
                   </a>
                 </li>
@@ -76,7 +76,7 @@
                     <div class="pro-img">
                       <img v-lazy="'/imgs/nav-img/nav-3-3.png'" alt="" />
                     </div>
-                    <div class="pro-name">小米全面屏电视E55A</div>
+                    <div class="pro-name">全面屏电视E55A</div>
                     <div class="pro-price">1799元</div>
                   </a>
                 </li>
@@ -85,7 +85,7 @@
                     <div class="pro-img">
                       <img v-lazy="'/imgs/nav-img/nav-3-4.jpg'" alt="" />
                     </div>
-                    <div class="pro-name">小米全面屏电视E55A</div>
+                    <div class="pro-name">全面屏电视E55A</div>
                     <div class="pro-price">1799元</div>
                   </a>
                 </li>
@@ -94,7 +94,7 @@
                     <div class="pro-img">
                       <img v-lazy="'/imgs/nav-img/nav-3-5.jpg'" alt="" />
                     </div>
-                    <div class="pro-name">小米全面屏电视E55A</div>
+                    <div class="pro-name">全面屏电视E55A</div>
                     <div class="pro-price">1799元</div>
                   </a>
                 </li>
